@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Darren Warner
+  description: Install local dependencies to run AWS CLI and Ansible AWS tasks
+  company: Kwaai Oak, Inc.
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - Precise
+        - Trusty
+  categories:
+    - cloud:aws
+dependencies: []
